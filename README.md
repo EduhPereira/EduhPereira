@@ -8,4 +8,10 @@
 
 </p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=eduhpereira&show_icons=true&locale=en" alt="eduhpereira" /></p>
+<br><br>
+<a href="https://github.com/eduhpereira">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eduhpereira&theme=dark">
+</a>
+<a href="https://github.com/eduhpereira">
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=eduhpereira&show_icons=true&theme=dark&line_height=30" alt="Eduardo's github stats"/>
+</a>
