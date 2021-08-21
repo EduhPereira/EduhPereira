@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Eduardo</h1>
-<h3 align="center">A FullStack Developer from Brazil</h3>
+<h3 align="center">A Front End Developer from Brazil</h3>
 
 <img src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/076be854-9aa9-4c3f-9090-33484ff9761b/dbfogeh-35581ed2-fd99-469d-8a55-90b88881ef8e.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzA3NmJlODU0LTlhYTktNGMzZi05MDkwLTMzNDg0ZmY5NzYxYlwvZGJmb2dlaC0zNTU4MWVkMi1mZDk5LTQ2OWQtOGE1NS05MGI4ODg4MWVmOGUuanBnIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.i-imEwsx7i2QWmm-vzFs_BleFwNmxDjSvrsVjG4Zsos"/>
 
